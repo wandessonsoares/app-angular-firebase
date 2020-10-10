@@ -11,3 +11,4 @@
 - 10879382 - Adriano Barroso Silvestre
 - 10879528 - Rodolfo Abrantes de Oliveira Andrade
 - 10879455 - Kennety Andersson Dantas da Silva
+- 10879358 - Wandesson da Silva Soares
